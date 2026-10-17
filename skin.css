@@ -1,0 +1,6 @@
+/*
+ * The look of the Claude app's Code tab. Turning a skin on sets data-skin on
+ * <html>, which switches Farline's own theme layer off; the base styles
+ * underneath were measured from the Claude iOS app, so nothing else is needed.
+ * Tweaks to this skin go here.
+ */
